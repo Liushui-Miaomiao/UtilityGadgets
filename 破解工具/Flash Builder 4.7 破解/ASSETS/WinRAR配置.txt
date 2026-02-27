@@ -1,0 +1,41 @@
+常规
+  压缩文件格式
+    rar
+  压缩方式
+    最好
+  字典大小
+    4096KB
+  压缩选项
+    创建自解压格式压缩文件
+    创建固实压缩文件
+    
+高级
+  自解压选项
+    常规
+      解压路径
+        Adobe\Adobe Flash Builder 4.7 (64 Bit)\eclipse\plugins\com.adobe.flexide.amt_4.7.0.349722\os\win32\x86_64
+    高级
+      请求管理员密码
+    更新
+      覆盖方式
+        覆盖所有文件
+    模块
+      Default64.SFX
+    文本和图标
+      自解压文件窗口标题
+        Flash Builder 4.7 破解
+      自解压文件窗口中显示的文本
+        1)
+
+1)
+<style>
+    body {
+        font-family: "Microsoft YaHei", "SimSun", sans-serif;
+        font-size: 15;
+    }
+</style>
+<ul>
+    <li>这是一个破解 <b>Flash Builder 4.7</b> 的工具。</li><br><br>
+    <li>单击 <b>解压</b> 按钮以进行破解，单击 <b>浏览</b> 按钮变更目标位置。</li><br><br>
+    <li><b>注意</b>：请在使用前妥善进行备份等操作，本工具不保证能完美破解。</li>
+</ul>

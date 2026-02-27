@@ -9,7 +9,7 @@
 
 Animate 2018 是最后一版能在 Win7 系统上运行的 Animate 版本。
 
-默认修复路径为 **%PROGRAMFILES%\Adobe\Adobe Animate CC 2018**，如果您的默认安装目录不是此目录，您需要手动点击 **浏览** 按钮重定向到您的安装目录。
+默认破解路径为 **%PROGRAMFILES%\Adobe\Adobe Animate CC 2018**，如果您的默认安装目录不是此目录，您需要手动点击 **浏览** 按钮重定向到您的安装目录。
 
 ## 下载
 
